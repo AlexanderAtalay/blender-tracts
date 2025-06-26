@@ -1,7 +1,7 @@
 # Blender Tracts
 ### Create Stunning Tractography Visualizations in Blender
 
-![alt text](https://github.com/AlexanderAtalay/blender-tracts/blob/main/resources/blender_tracts_banner.png "Superior-Inferior Streamlines Isolated and Visualized with Blender Tracts")
+![alt text](https://github.com/AlexanderAtalay/blender-tracts/blob/main/resources/blender_tracts_banner.jpg "Superior-Inferior Streamlines Isolated and Visualized with Blender Tracts")
 
 Verson 1.0.0
 
