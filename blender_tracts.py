@@ -250,8 +250,8 @@ class BlenderTractsPanel(Panel):
 def register():
     bpy.utils.register_class(StreamlineSettings)
     bpy.types.Scene.streamline_settings = bpy.props.PointerProperty(type=StreamlineSettings)
-    bpy.utils.register_class(IMPORT_OT_streamlines)
-    bpy.utils.register_class(STREAMLINE_PT_panel)
+    bpy.utils.register_class(ImportStreamlines)
+    bpy.utils.register_class(BlenderTractsPanel)
 
 def unregister():
     bpy.utils.unregister_class(BlenderTractsPanel)

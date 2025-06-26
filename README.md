@@ -11,7 +11,7 @@ Blender Tracts assigns each streamline to a set of geometry nodes that allows th
 
 ## Installation
 
-To install Blender Tracts, simply drag the .zip file into your Blender window. It will be accessible from the 'Tools' section on the right hand side of the 3D-viewer pane.
+To install Blender Tracts, simply download this repository as a .zip and drag it into your Blender window. It will be accessible from the 'Tools' section on the right hand side of the 3D-viewer pane.
 
 ## Contributors
 
