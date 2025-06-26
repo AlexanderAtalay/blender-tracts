@@ -11,7 +11,7 @@ Blender Tracts assigns each streamline to a set of geometry nodes that allows th
 
 ## Installation
 
-To install Blender Tracts, simply download this repository as a .zip and drag it into your Blender window. It will be accessible from the 'Tools' section on the right hand side of the 3D-viewer pane.
+To install Blender Tracts, simply download this repository, go to Edit->Preferences->Add-ons->Install from Disk, and select `blender_tracts.py`. Blender Tracts will be accessible from the 'Tools' section on the right-hand side of the 3D Viewer pane. The geometry and shader nodes can be modified to easily apply effects to every streamline for visualization purposes.
 
 ## Contributors
 
